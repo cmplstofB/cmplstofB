@@ -7,10 +7,10 @@ v0.1.0, 2020-08-07
 |===
 | Language | Level
 
-| Japanese
-| Native
+| 日本語
+| 母国語です。
 
 | English (US)
-| able to contribute
+| I am able to contribute
   with a basic level of English.
 |===
