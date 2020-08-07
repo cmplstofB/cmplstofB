@@ -1,0 +1,16 @@
+= B̅ (`cmplstofB`)
+B̅ (cmplstofB) <20594300+cmplstofB@users.noreply.github.com>
+v0.1.0, 2020-08-07
+
+== Babel
+.Language Level
+|===
+| Language | Level
+
+| Japanese
+| Native
+
+| English (US)
+| able to contribute
+  with a basic level of English.
+|===
