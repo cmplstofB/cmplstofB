@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:air="http://www.daml.org/2001/10/html/airport-ont#"
+  xmlns:contact="http://www.w3.org/2000/10/swap/pim/contact#"
+  xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+  xmlns:dpd="https://www.kanzaki.com/ns/dpd#"
+  xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+  xmlns:bio="http://purl.org/vocab/bio/0.1/"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:smap="http://purl.org/net/ns/sitemap#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns="http://xmlns.com/foaf/0.1/"
+>
+ <Person rdf:about="https://keybase.io/cmplstofB">
+  <nick>cmplstofB</nick>
+  <img rdf:resource="http://2.gravatar.com/avatar/e7737b2a67910e6836239a52d0817390"/>
+
+  <account>
+   <OnlineAccount rdf:about="https://twitter.com/cmplstofB">
+    <rdfs:label>@cmplstofB@twitter.com</rdfs:label>
+    <accountName>cmplstofB</accountName>
+    <accountServiceHomepage rdf:resource="https://twitter.com/"/>
+   </OnlineAccount>
+  </account>
+
+  <account>
+   <OnlineAccount rdf:about="https://github.com/cmplstofB">
+    <rdfs:label>@cmplstofB@github.com</rdfs:label>
+    <accountName>cmplstofB</accountName>
+    <accountServiceHomepage rdf:resource="https://github.com/"/>
+   </OnlineAccount>
+  </account>
+
+  <account>
+   <OnlineAccount rdf:about="https://mathtod.online/@cmplstofB">
+    <rdfs:label>@cmplstofB@mathtod.online</rdfs:label>
+    <accountName>cmplstofB</accountName>
+    <accountServiceHomepage rdf:resource="https://mathtod.online/"/>
+   </OnlineAccount>
+  </account>
+
+  <based_near>
+    <go:within_3_power_10_metres>
+      <air:Airport air:iataCode="KIX" air:latitude="34.26" air:longitude="135.14">
+    </go:within_3_power_10_metres>
+  </based_near>
+
+  <schoolHomepage rdf:resource="https://www.osaka-u.ac.jp/" dc:title="大阪大学"/>
+ </Person>
+
+ <PersonalProfileDocument rdf:about="">
+  <dc:title>FOAF metadata of @cmplstofB@keybase.io</dc:title>
+  <dcterms:created>2020-12-03</dcterms:created>
+  <dcterms:modified>2020-12-03</dcterms:modified>
+ </PersonalProfileDocument>
+</rdf:RDF>
