@@ -18,7 +18,8 @@
  <Person rdf:about="https://keybase.io/cmplstofB">
   <nick>cmplstofB</nick>
   <img rdf:resource="http://2.gravatar.com/avatar/e7737b2a67910e6836239a52d0817390"/>
-  <foaf:gender>male</foaf:gender>
+  <gender>male</gender>
+  <birthday>10-30</birthday>
 
   <account>
    <OnlineAccount rdf:about="https://twitter.com/cmplstofB">
