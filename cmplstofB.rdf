@@ -13,6 +13,7 @@
   xmlns:owl="http://www.w3.org/2002/07/owl#"
   xmlns:smap="http://purl.org/net/ns/sitemap#"
   xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:cv="http://rdfs.org/resume-rdf/cv.rdfs#"
   xmlns="http://xmlns.com/foaf/0.1/"
 >
  <Person rdf:about="https://keybase.io/cmplstofB">
@@ -52,6 +53,17 @@
   </based_near>
 
   <schoolHomepage rdf:resource="https://www.osaka-u.ac.jp/" dc:title="大阪大学"/>
+
+  <cv:LanguageSkill xml:lang="ja">
+    <cv:lngSkillLevelSpoken>5</cv:lngSkillLevelSpoken>
+    <cv:lngSkillLevelWritten>5</cv:lngSkillLevelWritten>
+    <cv:lngSkillLevelReading>5</cv:lngSkillLevelReading>
+  </cv:LanguageSkill>
+  <cv:LanguageSkill xml:lang="en">
+    <cv:lngSkillLevelSpoken>1</cv:lngSkillLevelSpoken>
+    <cv:lngSkillLevelWritten>2</cv:lngSkillLevelWritten>
+    <cv:lngSkillLevelReading>3</cv:lngSkillLevelReading>
+  </cv:LanguageSkill>
  </Person>
 
  <PersonalProfileDocument rdf:about="">
