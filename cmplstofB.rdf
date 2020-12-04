@@ -14,6 +14,7 @@
   xmlns:smap="http://purl.org/net/ns/sitemap#"
   xmlns:sioc="http://rdfs.org/sioc/ns#"
   xmlns:cv="http://rdfs.org/resume-rdf/cv.rdfs#"
+  xmlns:whois="http://www.kanzaki.com/ns/whois#"
   xmlns="http://xmlns.com/foaf/0.1/"
 >
  <Person rdf:about="https://keybase.io/cmplstofB">
@@ -52,7 +53,12 @@
     </go:within_3_power_10_metres>
   </based_near>
 
-  <schoolHomepage rdf:resource="https://www.osaka-u.ac.jp/" dc:title="大阪大学"/>
+  <whois:academicCareer>
+    <whois:Education>
+      <rdfs:label>大阪大学</rdfs:label>
+      <whois:since>2016</whois:since>
+    </whois:Education>
+  </whois:academicCareer>
 
   <cv:LanguageSkill xml:lang="ja">
     <cv:lngSkillLevelSpoken>5</cv:lngSkillLevelSpoken>
