@@ -77,8 +77,8 @@
   </cv:LanguageSkill>
   <cv:LanguageSkill xml:lang="jbo">
     <cv:lngSkillLevelSpoken>1</cv:lngSkillLevelSpoken>
-    <cv:lngSkillLevelWritten>2</cv:lngSkillLevelWritten>
-    <cv:lngSkillLevelReading>3</cv:lngSkillLevelReading>
+    <cv:lngSkillLevelWritten>1</cv:lngSkillLevelWritten>
+    <cv:lngSkillLevelReading>1</cv:lngSkillLevelReading>
   </cv:LanguageSkill>
 
   <foaf:interest rdf:resource="http://www.w3.org/2001/sw/" rdfs:label="意味論的Web"/>
