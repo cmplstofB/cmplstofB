@@ -81,8 +81,9 @@
     <cv:lngSkillLevelReading>1</cv:lngSkillLevelReading>
   </cv:LanguageSkill>
 
-  <foaf:interest rdf:resource="http://www.w3.org/2001/sw/" rdfs:label="意味論的Web"/>
-  <foaf:interest rdf:resource="http://www.wikidata.org/entity/Q413" rdfs:label="物理学"/>
+  <interest rdf:resource="http://www.w3.org/2001/sw/" rdfs:label="意味論的Web"/>
+  <interest rdf:resource="http://www.wikidata.org/entity/Q413" rdfs:label="物理学"/>
+  <interest rdf:resource="http://www.wikidata.org/entity/Q40463886" rdfs:label="ActivityPub"/>
  </Person>
 
  <PersonalProfileDocument rdf:about="">
